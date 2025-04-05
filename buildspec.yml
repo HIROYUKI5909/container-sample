@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    ECR_REPOSITORY: <your-ecr-repository>
+    ECR_REPOSITORY: https://github.com/HIROYUKI5909/container-sample
 
 phases:
   pre_build:
